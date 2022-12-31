@@ -26,3 +26,5 @@
 
 
 Procurando aprender cada vez mais e  sempre me destacar, estou no 3º período em Analise e Desenvolvimento de Sistemas.
+
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
