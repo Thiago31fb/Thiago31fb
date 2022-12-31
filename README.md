@@ -7,7 +7,6 @@
 
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago31fb&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago31fb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia:
 
@@ -22,5 +21,8 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago31fb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Procurando aprender cada vez mais e  sempre me destacar, estou no 3º período em Analise e Desenvolvimento de Sistemas.
